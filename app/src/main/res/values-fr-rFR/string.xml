@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">testS3</string>
+    <string name="bienvenido" >Bienvenue</string>
+    <string name="fondo">prueba3</string>
+    <string name="boton">entrer</string>
+    <string name="entrar">entrer</string>
+    <string name="todo">TODO</string></resources>
